@@ -1,16 +1,15 @@
-###
-<h2>Kallen Ivanov.</h2>
+<h2> Oi, Pode me chamar de Kallen <img src="https://media.tenor.com/iuZh8x_iFkQAAAAi/apple-deathnote.gif" width="50"></h2>
 <img align="right" height="200" src="https://media4.giphy.com/media/bqm6WOjuLu480/200w.gif"  />
+<p><em>Pode ver meu site em <a href="https://kallenivanov.site">Kallen Ivanov</a> ☾₊‧⁺  <img src="https://64.media.tumblr.com/aa59ba98e0208c2c4a7980360e59f020/a3a26d671076b72b-9b/s540x810/cc0ac15733bf40b86ca656e5f39ffdf5ca94f877.gif" width="30"></br>☾₊‧⁺ Eu sou Desiner, Dev Python, Ethical Hacker. 
+<br> Especialista em OSINT, Engenharia social, Linux enthusiast. 
+  
+<img src="https://i.pinimg.com/originals/f3/90/b1/f390b1afe8f0fbdff0bdbe09892d6e9b.gif" width="50">  Apenas um pouco sobre mim... para saber mais me chame em <a href="https://instagram.com/kallenivanov">@kallenivanov</a>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kallenivanov&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallenivanov&theme=shadow_red&hide_border=false" height="125" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallenivanov&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
-</div>
-
-###
+```javascript
+const kallen = {
+  linguagens: [Javascript, Python, C, HTML, CSS],
+  tecnologias: [React, Next.js, Flask, Linux, Adobe Photoshop, GameMaker],
+  ConverseComigoSobre: ["Hacking, Investigação Cibernética, UX/UI Design"],
+```
 
 
-###
