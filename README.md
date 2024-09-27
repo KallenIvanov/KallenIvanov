@@ -7,7 +7,7 @@
 
 ```javascript
 const kallen = {
-  linguagens: [Javascript, Python, C, HTML, CSS],
+  code: [Javascript, Python, C, HTML, CSS],
   tecnologias: [React, Next.js, Flask, Linux, Adobe Photoshop, GameMaker],
   ConverseComigoSobre: ["Hacking, Investigação Cibernética, UX/UI Design"], }
 ```
