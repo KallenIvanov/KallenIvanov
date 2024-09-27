@@ -9,7 +9,8 @@
 const kallen = {
   code: [Javascript, Python, C, HTML, CSS],
   tecnologias: [React, Next.js, Flask, Linux, Adobe Photoshop, GameMaker],
-  cursos: ["Programação em Python (Samsung), Design Thinking (Samsung), UX Design (Samsung),
-  DevOps (Samsung), Excell (Bradesco), Atendimento ao Cliente (SEBRAE), Assistente Admnistrativo."], }
+  cursos: ["Programação em Python (Samsung), Design Thinking (Samsung),
+  UX Design (Samsung), DevOps (Samsung), Excell (Bradesco),
+  Atendimento ao Cliente (SEBRAE), Assistente Admnistrativo."], }
 ```
 
